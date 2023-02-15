@@ -5,7 +5,7 @@
         "order_uuid": null,
         "channels": [
 		{
-                "channel_url": "https://baked.live/",
+                "channel_url": "https://baked.live",
                 "image_url": "https://cdn.discordapp.com/attachments/947017102185873438/994731283806695442/TBeawUX.png",
                 "title": "Baked Network"
             },	
