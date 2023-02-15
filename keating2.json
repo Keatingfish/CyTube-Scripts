@@ -5,6 +5,11 @@
         "order_uuid": null,
         "channels": [
 		{
+                "channel_url": "https://baked.live/",
+                "image_url": "https://cdn.discordapp.com/attachments/947017102185873438/994731359039934584/tbnlogolarge.png",
+                "title": "Baked Network"
+            },	
+		{
                 "channel_url": "https://baked.live/tv/Wrestling",
                 "image_url": "https://i.imgur.com/QMm9fxY.png",
                 "title": "Visit WrestleTube"
