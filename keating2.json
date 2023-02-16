@@ -6,17 +6,17 @@
         "channels": [
 		{
                 "channel_url": "https://baked.live",
-                "image_url": "https://cdn.discordapp.com/attachments/947017102185873438/966105601543397446/BakedLive-W.png",
+                "image_url": "https://i.imgur.com/QjHToUR.png",
                 "title": "Baked Network"
             },	
 		{
                 "channel_url": "https://baked.live/tv/Wrestling",
-                "image_url": "https://i.imgur.com/QMm9fxY.png",
+                "image_url": "https://i.imgur.com/9nP3pFg.png",
                 "title": "Visit WrestleTube"
             },
 					{
                 "channel_url": "https://baked.live/tv/rdh",
-                "image_url": "https://i.ibb.co/NZrL0c7/Real-Dad-s-Hideout.png",
+                "image_url": "https://i.imgur.com/ExhHMIu.png",
                 "title": "Visit Real Dads"
             },
 		{
@@ -31,7 +31,7 @@
             },
 			{
                 "channel_url": "https://baked.live/tv/NWATube",
-                "image_url": "https://i.imgur.com/ELg5jH7.png",
+                "image_url": "https://i.imgur.com/D2nLN7j.png",
                 "title": "Visit NWATube"
             }
         ]
