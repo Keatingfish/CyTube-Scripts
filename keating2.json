@@ -34,6 +34,11 @@
                 "image_url": "https://i.imgur.com/D2nLN7j.png",
                 "title": "Visit NWATube"
             }
+		{
+		"channel_url": "https://baked.live/tv/luchatube",
+		"image_url": "https://i.imgur.com/D2nLN7j.png",
+		"title": "Visit Luchatube"
+		}
         ]
     }
 }
